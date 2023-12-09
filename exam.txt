@@ -1,1 +1,2 @@
-This is First git command going to use in this system
+This is Example.txt Text File
+This is given task
