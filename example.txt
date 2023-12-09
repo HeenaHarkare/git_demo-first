@@ -1,0 +1,2 @@
+This is Example.txt Text file
+given task
